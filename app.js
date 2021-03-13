@@ -55,7 +55,3 @@ app.post("/failure", function(req, res){
 app.listen(process.env.PORT || 3000, function() {
   console.log("server is running on heroku port");
 });
-
-
-// APIkey="0da811d87232045c1c8cfacb536542c0-us1"
-// listid =c828eda5fe
